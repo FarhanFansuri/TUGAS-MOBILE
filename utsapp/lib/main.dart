@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:utsapp/identitas.dart';
 import 'package:utsapp/login.dart';
+import 'package:utsapp/tabung.dart';
 
 import 'menu.dart';
 
@@ -9,7 +10,7 @@ void main() {
     routes: {
       '/menu': (context)=>const Menu(),
     },
-    home:const  Identity(),
+    home:const  Tabung(),
   ));
 }
 
