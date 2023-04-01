@@ -35,7 +35,7 @@ class SubMenu extends StatelessWidget {
                             width: 10.0,
                           ),
                           Icon(
-                            Icons.account_circle_rounded,
+                            Icons.shape_line,
                             size: 30.0,
                           ),
                           SizedBox(
@@ -69,7 +69,7 @@ class SubMenu extends StatelessWidget {
                             width: 10.0,
                           ),
                           Icon(
-                            Icons.calendar_month_outlined,
+                            Icons.shape_line,
                             size: 30.0,
                             color: Colors.white,
                           ),
