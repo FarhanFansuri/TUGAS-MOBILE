@@ -1,0 +1,13 @@
+/home/farhan-linux/Documents/DEVELOPMENT/FLUTTER/COURSE/UTS/utsapp/build/linux/x64/debug/bundle/utsapp
+/home/farhan-linux/Documents/DEVELOPMENT/FLUTTER/COURSE/UTS/utsapp/build/linux/x64/debug/bundle/data/icudtl.dat
+/home/farhan-linux/Documents/DEVELOPMENT/FLUTTER/COURSE/UTS/utsapp/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/home/farhan-linux/Documents/DEVELOPMENT/FLUTTER/COURSE/UTS/utsapp/build/linux/x64/debug/bundle/data/flutter_assets/version.json
+/home/farhan-linux/Documents/DEVELOPMENT/FLUTTER/COURSE/UTS/utsapp/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
+/home/farhan-linux/Documents/DEVELOPMENT/FLUTTER/COURSE/UTS/utsapp/build/linux/x64/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+/home/farhan-linux/Documents/DEVELOPMENT/FLUTTER/COURSE/UTS/utsapp/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/home/farhan-linux/Documents/DEVELOPMENT/FLUTTER/COURSE/UTS/utsapp/build/linux/x64/debug/bundle/data/flutter_assets/assets/profile.jpg
+/home/farhan-linux/Documents/DEVELOPMENT/FLUTTER/COURSE/UTS/utsapp/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
+/home/farhan-linux/Documents/DEVELOPMENT/FLUTTER/COURSE/UTS/utsapp/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
+/home/farhan-linux/Documents/DEVELOPMENT/FLUTTER/COURSE/UTS/utsapp/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/home/farhan-linux/Documents/DEVELOPMENT/FLUTTER/COURSE/UTS/utsapp/build/linux/x64/debug/bundle/data/flutter_assets/fonts/Alkatra-VariableFont_wght.ttf
+/home/farhan-linux/Documents/DEVELOPMENT/FLUTTER/COURSE/UTS/utsapp/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
